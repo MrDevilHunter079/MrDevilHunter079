@@ -2,7 +2,7 @@
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=MrDevilHunter079" alt="MrDevilHunter079" /> 
-	<a href="https://github.com/MrDevilHunter079?tab=repositories"><img src="https://badges.pufler.dev/repos/MrDevilHunter079" alt="" /> </a>
+	<a href="https://github.com/MrDevilHunter079?tab=repositories"></a>
 </p>
 I am a student pursuing a Bachelor's degree in Computer Engineering 🎒 from Chitkara University who is obsessed with the idea of improving himself and wants a platform to grow and excel.
 
