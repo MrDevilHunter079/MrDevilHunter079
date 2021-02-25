@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently learning Full Stack Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
-- 🔭 I’m currently involved in DS & Algo.
-- 🤓 I’m looking to collaborate with JAVA and 🤩Web Development projects.
+- 🔭 I’m currently involved in Web Design.
+- 🤓 I’m looking to collaborate with 🤩Web Development projects.
 <!-- - 📝 See my [Resume]() to get more info. -->
 
 <!-- ### Connect with me:
