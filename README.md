@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 <br>
 
 <p align="align"> <img src="https://github-readme-stats.vercel.app/api?username=MrDevilHunter079&show_icons=true" alt=" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDevilHunter079&layout=compact" alt="MrDevilHunter079" /> </p>
+<p align="center"> 
+<!-- Most Used Languages BOX CODE -->
+<!-- ||||||| -->
+<!-- VVVVVV-->
+<!--  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDevilHunter079&layout=compact" alt="MrDevilHunter079" /> </p> -->
 
 <p align="center">
 <h4 align="center">Show some ❤️ by starring some of the <a href="https://github.com/urvesh254?tab=repositories"> repositories!</a></h4>
